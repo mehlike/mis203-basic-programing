@@ -1,0 +1,1 @@
+since returns strings data, quantities are converted using int() and percentage values using float() to allow mathemical operations.
