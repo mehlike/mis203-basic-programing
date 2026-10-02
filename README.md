@@ -2,7 +2,7 @@
 **Name :** Mehlike Rana Şahin
 **Student Number:** 2304109035
 **Department:** Management Information Systems
-**Course Name:** MIS203 - Basic Programing
+**Course Name:** MIS203 - Basic Programming
 
 ...
 
