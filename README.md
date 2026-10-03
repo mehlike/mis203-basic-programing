@@ -31,6 +31,7 @@ Tests:
 3. Student Discount Test:  
    - Input: Name = `Can`, Age = `22`, Day = `weekday`, Student = `yes`  
    - Result: `Can: 140.00 TRY (Student)`
+   
 Why does the order of the rules matter?
 The order matters because Python evaluates conditions sequentially from top to bottom and only executes the first rule that matches. If the Student rule came before the Child rule, a 10-year-old student would trigger the Student rule first and receive a 30% discount instead of the 40% Child discount they are entitled to.
 
