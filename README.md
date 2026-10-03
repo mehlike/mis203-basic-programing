@@ -19,6 +19,7 @@ What does break do in your program: It stops the infinite loop immediately when 
 
 # WEEK 03#
 AI Tool Used: Gemini
+
 Prompt Used: Create a Python program that calculates cinema ticket prices, including age and student discounts, using loops and conditional statements.
 What did you cahnge: I used a `try-except` block to prevent the program from crashing if a user enters letters instead of numbers for the age input. I also applied the `.lower()` method to standardise string inputs like student status and day type regardless of letter case.
 Tests:
